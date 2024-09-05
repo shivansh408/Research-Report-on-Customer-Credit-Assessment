@@ -1,5 +1,5 @@
 # Research-Report-on-Customer-Credit-Assessment
-Credit Assessment of Each Application to Predict Creditworthy and Defaulters
+Credit Assessment of Each Application to Predict Creditworthy and Defaulters. Conducted clustering, k-fold cross-validation, and autoencoder-based anomaly detection to preprocess and enhance data quality for credit risk analysis.
 
 
 [Research_Report_on_Customer_Credit_Assessment.pdf](https://github.com/shivansh408/Research-Report-on-Customer-Credit-Assessment/files/14327908/Research_Report_on_Customer_Credit_Assessment.pdf)
